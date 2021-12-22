@@ -1,1 +1,1 @@
-# 0w0s_Dungeon
+# Pwn challs for cyberange labs
